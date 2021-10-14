@@ -9,6 +9,7 @@
 ### Features
 
 * **database:** change the text of 1.txt fb162c1, closes #1
+* **struct:** add an new function 5282a66, closes #333
 
 
 ### BREAKING CHANGES
